@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
 	vector<int> v;
-	int number;
-	int number2;
+	double number;
+	double number2;
 	cout << "Input Vector 1" << endl;
 	cin >> number;
 	cout << "Input Vector 2" << endl;
